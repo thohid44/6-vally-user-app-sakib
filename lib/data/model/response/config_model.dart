@@ -41,11 +41,6 @@ class ConfigModel {
   int _deliveryZipCodeAreaRestriction;
   PaymentMethods _paymentMethods;
 
-
-
-
-
-
   ConfigModel(
       {int systemDefaultCurrency,
         bool digitalPayment,
